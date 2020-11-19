@@ -59,7 +59,7 @@ img {
     width: 100%;
 }
 .emag-content {
-    padding: 0 15px;
+    padding: 0 30px;
 }
 .emag-content p {
     font-family: 'NotoSerif', serif;
@@ -85,7 +85,7 @@ img {
 }
 .emag-credit {
     padding-bottom: 50px;
-    /* padding-left: 15px; */
+    padding-left: 15px;
 }
 .emag-credit p {
     font-size: 16px;

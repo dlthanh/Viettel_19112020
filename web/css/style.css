@@ -153,7 +153,7 @@ img {
     width: 475px;
 }
 .emag-credit {
-    margin: 0 auto;
+    margin: 80px auto;
 }
 .emag-credit p {
     margin-bottom: 0;
@@ -212,26 +212,4 @@ img {
 }
 .mobile {
     display: none;
-}
-@media (max-width: 992px) {
-    .w980, .w660 {
-        width: 100%;
-    }
-    .emag-sapo {
-        padding: 0 15px;
-    }
-    .emag-title img {
-        width: 100%;
-    }
-    .emag-content p {
-        padding: 0 15px;
-        font-size: 16px;
-        line-height: 24px;
-    }
-    .web {
-        display: none;
-    }
-    .mobile {
-        display: block;
-    }
 }

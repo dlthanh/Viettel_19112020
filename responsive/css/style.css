@@ -346,3 +346,28 @@ img {
         margin-bottom: 30px;
     }
 }
+@media (max-width: 992px) {
+    .w980, .w660 {
+        width: 100%;
+    }
+    .emag-sapo {
+        /* padding: 0 15px; */
+    }
+    .emag-title img {
+        width: 100%;
+    }
+    .emag-content p {
+        padding: 0 15px;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .emag-credit {
+        padding: 0 15px 100px;
+    }
+    .web {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+}
